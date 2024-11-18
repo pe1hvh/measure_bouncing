@@ -19,7 +19,7 @@ Tested
 
 The tested hardware was a SeeduinoXIAO and I used a morse key as pressbutton
 The measure time was set to microseconds.
-Done several tests, the image below give a good view how the bouncing affects the readinput().
+Done several tests, the image below give a good view how the bouncing affects the digitalread().
 
 ![Measure 1](testresults/measure_1.png)
 I used several morse keys for testing this example was the worst measuring.
