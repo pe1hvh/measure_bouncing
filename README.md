@@ -24,6 +24,7 @@ Done several tests, the image below give a good view how the bouncing affects th
 ![Measure 1](testresults/measure_1.png)
 I used several morse keys for testing this example was the worst measuring.
 After 2188 microseconds the input is stable.
+The best result gives a Kent straight key. The bouncing of this key didn't affects the digitalread at all.
 
 73 [PE1HVH ](https://www.pe1hvh.nl)
 
