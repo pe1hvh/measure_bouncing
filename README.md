@@ -4,12 +4,14 @@ Measure bouncing
 Description
 ---------------
 
-Simple program to measure the effect of bouncing on the digital input.
+Simple program to measure the effect of bouncing on the digital input of your Arduino.
    
 While this program takes over the keyboard you have to open a text editor and place the mouse cursor there before testing.
 The testresults are written to the text editor.
 
 Save the document as CSV and you can display the results in your favorite spreadsheet.
+
+One remark: this program do not show the real bouncing, but only the effect on the input of the Arduino.
 
   
 Tested
