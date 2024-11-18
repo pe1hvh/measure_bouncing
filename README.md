@@ -14,8 +14,8 @@ Save the document as CSV and you can display the results in your favorite spread
 One remark: this program do not show the real bouncing, but only the effect on the input of the Arduino.
 
   
-Tested
----------------
+Test result
+-----------
 
 The tested hardware was a SeeduinoXIAO and I used a morse key as pressbutton
 The measure time was set to microseconds.
