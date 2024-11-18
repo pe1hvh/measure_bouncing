@@ -6,7 +6,8 @@ Description
 
 Simple program to measure the effect of bouncing on the digital input.
    
-Open a text editor and place the mouse cursor there before testing.
+While this program takes over the keyboard you have to open a text editor and place the mouse cursor there before testing.
+The testresults are written to the text editor.
 
 Save the document as CSV and you can display the results in your favorite spreadsheet.
 
