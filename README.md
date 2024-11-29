@@ -21,6 +21,8 @@ A good library for de-bouncing is [Bounce2](https://github.com/thomasfredericks/
 A good article about bouncing is [Wikipeadia: Switch](https://en.wikipedia.org/wiki/Switch#Contact_bounce) and
 [John Errington's Experiments with an Arduino](https://www.skillbank.co.uk/arduino/switchbounce.htm#Bounce5)
 
+In the graph 1=on 0=off.
+
   
 Test result
 -----------
